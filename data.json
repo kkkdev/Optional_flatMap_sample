@@ -1,0 +1,25 @@
+{
+	"foo": {
+		"bar": [{
+			"baz": {
+				"value": "aaaa"
+			}
+		}, {
+			"baz": {
+				"value": "bbbb"
+			}
+		}, {
+			"baz": {
+				"val": "cccc"
+			}
+		}, {
+			"baz": {
+				"value": null
+			}
+		}, {
+			"boooo": {
+				"value": "eeee"
+			}
+		}]
+	}
+}
